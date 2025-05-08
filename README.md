@@ -1,1 +1,3 @@
-# Benford-s-Law-Program
+# Benfords-Law-Program
+
+Developed a Python program to analyze numerical datasets using Benford’s Law, which predicts the expected frequency distribution of leading digits. The program reads CSV files, calculates observed distributions, compares them to theoretical expectations, and performs a chi-square goodness-of-fit test. It generates a visual plot in the terminal and outputs a detailed CSV report with relevant statistics and digit-level summaries for further analysis. This project has applicability in fields such as forensic accounting and demonstrates how statistical principles can be combined with programming to uncover patterns in real-world data.
